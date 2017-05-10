@@ -9,5 +9,4 @@
 
 ## Run tests:
 * run `node_modules/.bin/protractor conf.js`
-or on Saucelabs (add your username/key)
-* `node_modules/.bin/protractor sauceConf.js`
+* or on Saucelabs (add your username/key) `node_modules/.bin/protractor sauceConf.js`
